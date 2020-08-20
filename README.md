@@ -8,3 +8,10 @@ presionar tecla p para parar
 presionar tecla c para continuar
 flechas del teclado para moverte
 modificar tamaño en datos.hpp apartado casillas
+
+librerias:
+  SFML2
+  
+compilar:
+  
+g++ main.cpp -o sfml comida.cpp snake.cpp -lsfml-graphics -lsfml-window -lsfml-system
