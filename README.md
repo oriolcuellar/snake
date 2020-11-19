@@ -1,21 +1,21 @@
 # snake
 
-juego de la serpiente
+# juego de la serpiente
 
 activa o desactiva el movimiento automatico poniendo como comentario la linea 43 (serp.automatico())
 
 modificar tamaño del terreno en datos.hpp apartado: casillas
 
-En partida:
+# En partida:
    - presionar tecla p para parar
    - presionar tecla c para continuar
    - flechas del teclado para moverte
    
 
-librerias:
+# LIBRARIES
   SFML2
   
-compilar:
+# compilar:
   make
 
 <img src="images/snake.png">
