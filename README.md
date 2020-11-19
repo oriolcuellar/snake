@@ -14,5 +14,5 @@ librerias:
   
 compilar:
   make
-![](images/you-picture.png
+![](images/snake.png
 img src="images/snake.png"
