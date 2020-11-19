@@ -2,6 +2,8 @@
 
 # juego de la serpiente
 
+# Automatizacion
+
 activa o desactiva el movimiento automatico poniendo como comentario la linea 43 (serp.automatico())
 
 modificar tamaño del terreno en datos.hpp apartado: casillas
@@ -12,11 +14,8 @@ modificar tamaño del terreno en datos.hpp apartado: casillas
    - flechas del teclado para moverte
    
 
-# LIBRARIES
+# Librerias
   SFML2
-  
-# compilar:
-  make
 
 <img src="images/snake.png">
 <img src="images/snake2.png">
