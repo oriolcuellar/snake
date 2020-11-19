@@ -13,5 +13,6 @@ librerias:
   SFML2
   
 compilar:
-  
-make
+  make
+
+img src="images/snake.png"
