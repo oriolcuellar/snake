@@ -39,8 +39,10 @@ int main()
 
         window.clear();//borra pantalla
 
-        //poner automatico con comentario para control manual
+        //poner automatico con comentario para control manual...............................................................................
         serp.automatico(manzana);//decide donde se mueve
+	    
+	//..................................................................................................................................
 
         for (int i=0;i<4;i++){//mover 4 pixeles hasta la siguiente casilla
             window.clear();//limpia pantalla
