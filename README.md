@@ -16,6 +16,7 @@ modificar tamaño del terreno en datos.hpp apartado: casillas
 
 # Librerias
   SFML2
+  https://www.sfml-dev.org/download.php
 
 <img src="images/snake.png">
 <img src="images/snake2.png">
