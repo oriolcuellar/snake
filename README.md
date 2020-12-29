@@ -2,11 +2,14 @@
    juego de la serpiente
 
 # Configurar
-   ## tamaño
+   ## Tamaño
+   
+      modificar tamaño del terreno en datos.hpp apartado: casillas
+   ## automatico / manual
+   
+      activa o desactiva el movimiento automatico poniendo como comentario la linea 43 (serp.automatico())
 
-activa o desactiva el movimiento automatico poniendo como comentario la linea 43 (serp.automatico())
 
-modificar tamaño del terreno en datos.hpp apartado: casillas
 
 # En partida:
    - presionar tecla p para parar
