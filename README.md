@@ -7,7 +7,8 @@
       modificar tamaño del terreno en datos.hpp apartado: casillas
    ## automatico / manual
    
-      activa o desactiva el movimiento automatico poniendo como comentario la linea 43 del main (serp.automatico())
+      activa o desactiva el movimiento automatico
+      poniendo como comentario la linea 43 del main (serp.automatico())
 
 
 
