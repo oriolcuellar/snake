@@ -1,6 +1,5 @@
 # snake
-
-# juego de la serpiente
+   juego de la serpiente
 
 # Automatizacion
 
