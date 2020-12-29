@@ -13,14 +13,15 @@
 
 
 # En partida:
-   - presionar tecla p para parar
-   - presionar tecla c para continuar
-   - flechas del teclado para moverte
+    - presionar tecla p para parar
+    - presionar tecla c para continuar
+    - flechas del teclado para moverte
    
 
 # Librerias
-  SFML2
-  https://www.sfml-dev.org/download.php
+
+      SFML2
+      https://www.sfml-dev.org/download.php
 
   <img src="images/snake.png"> 
   <img src="images/snake2.png">
